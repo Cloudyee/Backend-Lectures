@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+.navbar-brand,h2, h3, h4{
+	font-family: "Nanum Gothic", sans-serif;
+}
+
+ h1, h5{
+	font-family:  "Bagel Fat One", system-ui;
+}
+body{
+	font-family: "Nanum Gothic", sans-serif;
+	font-weight: 900;
+}
